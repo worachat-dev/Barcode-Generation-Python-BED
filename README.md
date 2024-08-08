@@ -90,14 +90,13 @@ print("Barcodes generated and saved as images.")
 * After running the script, you will find image files named `code39.png`, `code128.png`, and so on in your Colab notebook directory.
 * These image files represent the generated barcodes. You can use them for inventory management or any other application requiring barcodes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
 ## Screenshots
 
 ![Barcode Generation](./image.png)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
